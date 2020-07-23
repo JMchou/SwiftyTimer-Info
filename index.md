@@ -1,4 +1,4 @@
-**Privacy Policy**
+##Privacy Policy
 
 Jiaming Zhou built the SwiftyTimer app as a Free app. This SERVICE is provided by Jiaming Zhou at no cost and is intended for use as is.
 
